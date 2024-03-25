@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About Me : 🗂️
 --------------
 
-## About Me
 - **Name:** Mythee
 - **Age:** 14
 
