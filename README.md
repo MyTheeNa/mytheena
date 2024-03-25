@@ -1,4 +1,6 @@
-# Hello, I'm Mythee! 👋
+# Mythee's Profile
+
+![Profile Views](https://komarev.com/ghpvc/?username=mythee&color=blueviolet)
 
 ## About Me
 - **Name:** Mythee
@@ -19,10 +21,7 @@ Hello there! My name is Mythee. I am a software developer passionate about progr
 ## Contact Information
 If you're interested in chatting or collaborating, feel free to reach out to me via [email](mailto:mythee@example.com) or on [GitHub](https://github.com/mythee).
 
-## Fun and Games
-- Here's a picture of my favorite programming buddy:
-  ![Programming Buddy](https://example.com/programming_buddy.jpg)
+## GIF Presentation
+Here's a GIF showcasing one of my programming projects:
 
-- Check out this cool JavaScript game I built: [JavaScript Game](https://github.com/mythee/javascript-game)
-
-- Want to see my Python projects? Head over to [My Python Playground](https://github.com/mythee/python-projects)
+![Project Presentation](https://example.com/project_presentation.gif)
