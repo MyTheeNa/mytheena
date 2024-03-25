@@ -4,7 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About Me : 🗂️
 --------------
 
-Name: Mythee Age: 14 ## Introduction Hello there! My name is Mythee. I am a software developer passionate about programming and web development. ## Projects of Interest - 🐍 Developing web applications using Flask - 🖥️ Building websites with JavaScript and HTML
+## About Me
+- **Name:** Mythee
+- **Age:** 14
+
+## Introduction
+Hello there! My name is Mythee. I am a software developer passionate about programming and web development.
+
+## Projects of Interest
+- 🐍 Developing web applications using Flask
+- 🖥️ Building websites with JavaScript and HTML
 
 * 🌍  I'm based in thai
 * 🖥️  See my portfolio at [pr-api](http://pr-apimile.online/)
