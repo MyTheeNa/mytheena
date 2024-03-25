@@ -6,7 +6,6 @@ About Me : 🗂️
 
 Name: Mythee Age: 14 ## Introduction Hello there! My name is Mythee. I am a software developer passionate about programming and web development. ## Projects of Interest - 🐍 Developing web applications using Flask - 🖥️ Building websites with JavaScript and HTML
 
-* 🌍  I'm based in thai
 * 🖥️  See my portfolio at [pr-api](http://pr-apimile.online/)
 * ✉️  You can contact me at [theeta1861@gmail.com](mailto:theeta1861@gmail.com)
 * 🚀  I'm currently working on [primo-apiview](http://pr-apimile.online/)
