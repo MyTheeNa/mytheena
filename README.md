@@ -28,11 +28,32 @@
   <h2>🌟 About Me 🌟</h2>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   
-  ```javascript
-  const thee = {
-    name: "Thee",
-    age: 13,
-    school: "Matthayomwatdansamrong",
-    passions: ["Coding", "Learning", "Gaming"],
-    motto: "Dream big, work hard, stay focused!"
-  };
+  ```python  
+  class Developer:
+      def __init__(self):
+          self.username = "MyTheeNa"
+          self.name = "Thee"
+          self.age = 13
+          self.school = "Matthayomwatdansamrong"
+          self.type = "Student Developer"
+          
+      def get_status(self):
+          return "Learning and Growing 🌱"
+      
+      def current_goals(self):
+          return [
+              "🎯 Master Programming",
+              "🎮 Create Amazing Games",
+              "📚 Excel in Studies"
+          ]
+          
+      def daily_routine(self):
+          return {
+              "morning": "Study at School",
+              "afternoon": "Code & Create",
+              "evening": "Gaming Time",
+              "night": "Dream Big"
+          }
+
+  thee = Developer()
+  print(f"Welcome to {thee.username}'s Profile!")
