@@ -35,7 +35,6 @@
 
 class TheeNa:
     def __init__(self):
-        # Just a kid who loves coding!
         self.name = "Thee"
         self.age = 13
         self.school = "Matthayomwatdansamrong"
