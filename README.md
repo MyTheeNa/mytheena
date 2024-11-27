@@ -32,9 +32,11 @@
   
   ```python
 # 👋 Hi! I'm Thee
+# 🌟 Welcome to my profile.py
 
 class TheeNa:
     def __init__(self):
+        # Just a kid who loves coding!
         self.name = "Thee"
         self.age = 13
         self.school = "Matthayomwatdansamrong"
@@ -57,3 +59,7 @@ class TheeNa:
             "🌙 ค่ำ": "ฝันดี coding ต่อพรุ่งนี้ 💭"
         }
         return daily_life
+
+# Run my profile!
+thee = TheeNa()
+print("ยินดีต้อนรับเข้าสู่โลกของผม! 🚀")
